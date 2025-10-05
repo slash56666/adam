@@ -45,4 +45,4 @@ if body > body_alkarani:
 elif body < body_alkarani:
     print("Prohra! Alkarani ovládli vaši kolonii.")
 else:
-    print("Remíza! Nikdo nezvítězil, válka pokračuje.")
+    print("Remíza! Nikdo nezvítězil, válka pokračuje a už nezkončí;.")
